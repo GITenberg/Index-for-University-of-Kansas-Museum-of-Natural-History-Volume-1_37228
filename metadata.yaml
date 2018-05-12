@@ -1,0 +1,69 @@
+_repo: Index-for-University-of-Kansas-Museum-of-Natural-History-Volume-1_37228
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: University of Kansas
+    alias: Kansas, University of
+    gutenberg_agent_id: '38715'
+    url: http://www.gutenberg.org/2009/agents/38715
+  editors:
+  - agent_name: Farner, Donald S. (Donald Sankey)
+    aliases:
+    - Farner, Donald Stanley
+    - Farner, D. S. (Donald Sankey)
+    - Farner, Donald Sankey
+    birthdate: 1915
+    deathdate: 1988
+    gutenberg_agent_id: '38178'
+    url: http://www.gutenberg.org/2009/agents/38178
+  - agent_name: Leonard, A. Byron (Arthur Byron)
+    alias: Leonard, Arthur Byron
+    birthdate: 1904
+    gutenberg_agent_id: '38716'
+    url: http://www.gutenberg.org/2009/agents/38716
+  - agent_name: Hall, E. Raymond (Eugene Raymond)
+    alias: Hall, Eugene Raymond
+    birthdate: 1902
+    deathdate: 1986
+    gutenberg_agent_id: '26108'
+    url: http://www.gutenberg.org/2009/agents/26108
+  - agent_name: Wilson, Robert W. (Robert Warren)
+    alias: Wilson, R. W. (Robert Warren)
+    birthdate: 1909
+    deathdate: 2006
+    gutenberg_agent_id: '35710'
+    url: http://www.gutenberg.org/2009/agents/35710
+  - agent_name: Taylor, Edward Harrison
+    alias: Taylor, Edward H. (Edward Harrison)
+    birthdate: 1889
+    deathdate: 1978
+    gutenberg_agent_id: '36954'
+    url: http://www.gutenberg.org/2009/agents/36954
+  - agent_name: Hoffmeister, Donald Frederick
+    birthdate: 1916
+    gutenberg_agent_id: '37477'
+    url: http://www.gutenberg.org/2009/agents/37477
+  - agent_name: Lane, Henry Higgins
+    alias: Lane, H. H. (Henry Higgins)
+    birthdate: 1878
+    deathdate: 1965
+    gutenberg_agent_id: '38005'
+    url: http://www.gutenberg.org/2009/agents/38005
+description: ''
+gutenberg_issued: '2011-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37228'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indexes'
+- !lcc 'QH'
+title: "Index to University of Kansas Publications, Museum of Natural History, Volume\
+  \ 1\r\n1946-1950"
+url: http://www.gutenberg.org/ebooks/37228
